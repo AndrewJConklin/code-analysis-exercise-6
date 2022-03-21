@@ -29,7 +29,7 @@ Inputs and outputs should be valid JavaScript values!
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td>This program takes an input that is an array of numberd and adds together the squares of each number in the array. The program then returns the sum of each the squares. </td>
+    <td>This program takes an input that is an array of numbers and adds together the squares of each number in the array. The program then returns the sum the squares. </td>
   </tr>
 </table>
 

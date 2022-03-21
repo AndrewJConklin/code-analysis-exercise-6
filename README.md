@@ -20,16 +20,16 @@ function (numbers){
 
 Inputs and outputs should be valid JavaScript values!
 
-| Input | Output |
-| ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| Input         | Output |
+| [1, 2, 3]     | 14     |
+| [0, 1]        | 1      | 
+| [1, 2, 3, 4]  |  30    | 
+|               |        | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This program takes an input that is an array of numberd and adds together the squares of each number in the array. The program then returns the sum of each the squares. </td>
   </tr>
 </table>
 
